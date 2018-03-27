@@ -8,7 +8,7 @@ describe('Specs', () => {
     };
   };
   
-  it('Foo', () => {
+  it('FooBar', () => {
     expect(1).toEqual(1);
   });
 });
